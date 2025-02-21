@@ -12,4 +12,4 @@ ADMIN_IDS = [1268911778, 12345678]
 
 # Limits
 DEFAULT_LIMIT = 10000 # Card Scrapping Limit For Everyone
-ADMIN_LIMIT = 99999 # Card Scrapping Limit For Admin
+ADMIN_LIMIT = 50000 # Card Scrapping Limit For Admin
